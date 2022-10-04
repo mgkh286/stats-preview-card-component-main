@@ -19,8 +19,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![desktop]()
-![Mobile]()
+![desktop](https://github.com/mgkh286/stats-preview-card-component-main/blob/master/desktop.PNG)
+![Mobile](https://github.com/mgkh286/stats-preview-card-component-main/blob/master/mobilePNG.PNG)
 
 ### Links
 
