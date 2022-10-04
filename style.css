@@ -88,12 +88,12 @@ h2 span {
 }
 
 /* responsive design  */
-@media (min-width: 600px) {
+@media (min-width: 1000px) {
   .card {
     display: flex;
     flex-direction: row-reverse;
-    height: 30vh;
-    width: 50vw;
+    height: 25rem;
+    width: 60rem;
   }
 
   .img-section {
